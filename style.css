@@ -228,3 +228,8 @@ section:nth-of-type(4) { animation-delay: 0.4s; }
     transform: none;
   }
 }
+
+a:hover {
+  text-decoration: underline;
+  color: #0077b5;
+}

@@ -33,4 +33,21 @@ footer {
   text-align: center;
   font-size: 0.9em;
   color: #777;
+
+}
+.contact-list {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.contact-list li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contact-list i {
+  margin-right: 10px;
+  color: #005f99;
+  min-width: 20px;
 }
